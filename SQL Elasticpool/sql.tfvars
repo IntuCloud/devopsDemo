@@ -1,0 +1,17 @@
+resource_group_name             = "Firsttask"
+location                        = "Central US"
+log_analytics_workspace_name    = "demo-law1"
+key_vault_name                  = "SQLelp-keyvault3"
+sql_admin_login                 = "sqladmin"
+sql_admin_password              = "Password@1234"
+azuread_object_id               = "5aaf13d8-e09a-424e-bbe3-f5c7cc3e62f3"
+azurerm_mssql_elasticpool_name  = "test-epool"
+azurerm_mssql_server_name       = "demosqlserver5"
+azurerm_database_resource_group = "database-rg"
+login_username                  = "AzureAD Admin"
+
+#Tags
+owner        = "Jessin@intucloud"
+environment  = "production"
+project      = "SQLInfraNoDB"
+billing_code = "ABC1234"
