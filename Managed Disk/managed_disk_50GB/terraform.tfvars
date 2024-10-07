@@ -1,0 +1,5 @@
+resource_group_name = "useddemoRSG02"
+owner               = "shine@intucloud"
+billing_code        = "121004"
+environment         = "Development" 
+tenant_id           = "5060bc5f-d25d-44c0-89fa-9d801016296e"
