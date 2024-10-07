@@ -1,0 +1,9 @@
+resource_group_name = "useddemoRSG01"
+location            = "East US"
+environment         = "Development"
+project             = "ProjectDemo"
+sku                 = "Basic"
+family              = "C"
+capacity            = 0
+owner               = "shine@intucloud"
+billing_code        = "121004"
